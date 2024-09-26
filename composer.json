@@ -1,5 +1,5 @@
 {
-    "name": "dwarfdk/laravel-meilitools",
+    "name": "dwarfdk/laravel-meilitools-v2",
     "description": "Additional tools for Laravel Scout integration with MeiliSearch",
     "license": "MIT",
     "keywords": [
